@@ -1,5 +1,5 @@
 # dm4ba_S2019
-Data Mining for Business Analytics class
+Data Mining for Business Analytics class (INFO-UB.0057)
 
 
 ## Introduction
