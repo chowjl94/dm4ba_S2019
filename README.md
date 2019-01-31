@@ -19,7 +19,7 @@ The basic libraries required for the notebooks are: pandas, numpy, datetime, os,
 
 ## Contributors
 
-Prof. George Valkanas - NYU Stern School of Business [Website](http://people.stern.nyu.edu/fprovost/)
+Prof. George Valkanas - NYU Stern School of Business [Website](http://www.di.uoa.gr/~gvalk/)
 
 Prof. Foster Provost - NYU Stern School of Business [Website](http://people.stern.nyu.edu/fprovost/)
 
