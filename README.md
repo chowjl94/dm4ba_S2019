@@ -19,9 +19,6 @@ The basic libraries required for the notebooks are: pandas, numpy, datetime, os,
 
 ## Contributors
 
-Prof. George Valkanas - NYU Stern School of Business [Website](http://www.di.uoa.gr/~gvalk/)
-
-Prior forks from works of the following people:
 * MSDS Maria Leonor Zamora Maass [Contact](https://www.linkedin.com/in/marialzamora/)
 * Rob Moakler, NYU Stern Ph.D. [Github link](https://github.com/rmoakler/learning-data-science/tree/master/Fall%202015)
 * PhD Candidate Nicholas Garcia [Contact](https://www.linkedin.com/in/nickmacgregorgarcia/)
