@@ -43,9 +43,9 @@ def Decision_Surface(data, target, model=None, surface=True, probabilities=True,
         # Higher orders
         #plt.title("humor^(" + str(list(range(1,data.shape[1]))) + ") and number_pets")
     #else:
-    plt.title("humor and number_pets")
-    plt.xlabel("humor")
-    plt.ylabel("number_pets")
+    plt.title("{} and {}".format(data.columns[0], data.columns[1]))
+    plt.xlabel(data.columns[0])
+    plt.ylabel(data.columns[1])
     if surface and model != None:
         if probabilities:
             # Color-scale on the contour (surface = separator)
